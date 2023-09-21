@@ -1,10 +1,10 @@
 {
-  "name": "enocdedstringimageviewer",
-  "widgetName": "EnocdedStringImageViewer",
-  "version": "1.0.0",
+  "name": "encodedstringimageviewer",
+  "widgetName": "EncodedStringImageViewer",
+  "version": "2.0.0",
   "description": "View Image Using Base64 String",
   "copyright": "© Mendix Technology BV 2022. All rights reserved.",
-  "author": "Dinesh Kumar P",
+  "author": "Dinesh Kumar P & Daan V.",
   "engines": {
     "node": ">=16"
   },
@@ -14,7 +14,7 @@
     "mendixHost": "http://localhost:8080",
     "developmentPort": 3000
   },
-  "packagePath": "mxtechies",
+  "packagePath": "magnusds",
   "scripts": {
     "start": "pluggable-widgets-tools start:server",
     "dev": "pluggable-widgets-tools start:web",

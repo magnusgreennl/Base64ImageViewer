@@ -1,4 +1,4 @@
-## EnocdedStringImageViewer
+## EncodedStringImageViewer
 [View Image Using Base64 String]
 
 ## Features

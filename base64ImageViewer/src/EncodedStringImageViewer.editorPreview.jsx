@@ -1,4 +1,4 @@
-import { Component, createElement } from "react";
+import { Component } from "react";
 
 export class preview extends Component {
     render() {
@@ -7,5 +7,5 @@ export class preview extends Component {
 }
 
 export function getPreviewCss() {
-    return require("./ui/EnocdedStringImageViewer.css");
+    return require("./ui/EncodedStringImageViewer.css");
 }
